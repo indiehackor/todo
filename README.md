@@ -1,3 +1,15 @@
+# Før du starter
+
+## node og npm
+* Sjekk om du har node og npm. `node -v` og `npm -v` i terminalen.
+* Hvis du ikke, [last ned node](https://nodejs.org/en/) eller installer med `brew install node`.
+
+## Vue
+* Kjør `npm install -g @vue/cli` (trengs strengt tatt ikke, men én dag!)
+* Installer *Vue.js* Intellij plugin
+* Clone repo
+* Get to work.
+
 # Todo app Oppgaver
 
 ## Innhold
